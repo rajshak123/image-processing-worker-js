@@ -9,8 +9,8 @@ canvas {
 }
 
 #input + label {
-  background-color: #777;
-  color: #f3f3f3;
+  background-color: rgb(100, 102, 216);
+  color: #d0d3df;
   display: inline-block;
   font-family: sans-serif;
   font-size: 2em;
